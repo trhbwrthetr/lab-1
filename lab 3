@@ -1,0 +1,29 @@
+<html lang="en">
+
+<head>
+	<style>
+		div {
+			font-size: 20pt;
+		}
+	</style>
+</head>
+	
+	<div id='first_div_id' style='color: red' class='class_1 class_2'>
+		<span class='first_name'>John</span>
+		<span class='last_name'>Best</span>
+	</div>
+	<div>
+		<span class="first_name">Eddie</span>
+		<span class="last_name">Wong</span>
+	</div>
+
+<body>
+
+
+<script>
+
+
+</script>	
+</body>
+
+</html>
